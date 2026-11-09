@@ -1,0 +1,26 @@
+{
+  "exported_utc": "2026-11-09T18:03:53.092668+00:00",
+  "both_arms_exported_before_selection": true,
+  "science_source": {
+    "science/study.py": "729326ecfdff677f01c0a9d5b9011e7069e043a18590aad0f07fc509733e0f0f",
+    "science/legacy_features.py": "a8f70e2a19c6c38eee53c7f21905f548ab1524d4dda47329f4521652f5036f81"
+  },
+  "notebooks": {
+    "control": {
+      "file": "memecoins-causal-control.ipynb",
+      "sha256": "0e710e7745d70c4ec0998b1f244071adcb48d10eb348dcf57ed8a5835c0c1a3b",
+      "code_sha256": "301ed4c4bbb12be6f834763cdb3e9bdf29263f0e7ebb4349cfdda653c8dbe100",
+      "code_cells": 6
+    },
+    "reservoir": {
+      "file": "memecoins-causal-reservoir.ipynb",
+      "sha256": "c53c2d8403ce19032fac1a19cc2eecc91fd91dd194eb0e150bbe6e10e3bdd74a",
+      "code_sha256": "c6a7eb48154b36e012482b9af3bd034f68e8df3fcfc42364a0d272d6f5d2421e",
+      "code_cells": 6
+    }
+  },
+  "weights_or_raw_data_embedded": false,
+  "source_encoding": "plain Python cells; no base64, pickle, shell or network",
+  "metadata_amendment_utc": "2026-11-09T18:06:41.292795+00:00",
+  "metadata_amendment": "Deterministic required cell IDs; code hashes unchanged"
+}

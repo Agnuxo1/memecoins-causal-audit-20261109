@@ -1,0 +1,15 @@
+# Project: Event-time survival benchmark
+# Copyright (c) 2026 Francisco Angulo de Lafuente
+# Author: Francisco Angulo de Lafuente
+# ORCID: https://orcid.org/0009-0001-1634-7063
+# Attribution record: 2026-11-06
+# SPDX-License-Identifier: MIT
+
+.venv/
+__pycache__/
+.pytest_cache/
+*.zip
+*.pkl
+.env
+results-local/
+data/

@@ -1,0 +1,18 @@
+{
+  "full_notebook_runtime": "passed on owner Linux server, 2026-11-09",
+  "notebook_sha256": "0e710e7745d70c4ec0998b1f244071adcb48d10eb348dcf57ed8a5835c0c1a3b",
+  "runtime_code_cells": 6,
+  "runtime_seconds": 662.0341911739961,
+  "runtime_peak_rss_KiB": 3223956,
+  "runtime_gpu_used": false,
+  "runtime_prediction_rows": 292,
+  "runtime_buys": 0,
+  "bot_notebook_delivery": "received v1; static and safety checks passed",
+  "kaggle_identity_handshake_only": 58170457,
+  "telegram_kaggle_link": "not confirmed",
+  "official_prize_score": null,
+  "source_publication_is_not_official_submission": true,
+  "bot_sandbox_trial": "running",
+  "bot_entry_final_acceptance_confirmed": false,
+  "bot_last_observed_utc": "2026-11-09T19:08:19.665635+00:00"
+}

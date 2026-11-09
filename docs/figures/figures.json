@@ -1,0 +1,252 @@
+{
+  "title": "Event-time survival benchmark",
+  "subtitle": "Temporal separation and abstention in a competition simulator",
+  "figures": [
+    {
+      "kind": "flow",
+      "id": "dataflow",
+      "title": "From early event history to a frozen decision",
+      "subtitle": "Only events available at the cutoff may affect features",
+      "nodes": [
+        [
+          0.12,
+          0.35,
+          "First-minute tape"
+        ],
+        [
+          0.4,
+          0.2,
+          "Tabular features",
+          "below"
+        ],
+        [
+          0.4,
+          0.69,
+          "Temporal signatures"
+        ],
+        [
+          0.68,
+          0.35,
+          "Survival estimates"
+        ],
+        [
+          0.88,
+          0.35,
+          "Frozen policy"
+        ]
+      ],
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "basis": "Technical schematic",
+      "source": "Source: code paths described in the README",
+      "alt": "From early event history to a frozen decision. First-minute tape; Tabular features; Temporal signatures; Survival estimates; Frozen policy"
+    },
+    {
+      "kind": "xy",
+      "id": "timing",
+      "title": "Observation ends before the label matures",
+      "subtitle": "Synthetic event-time example; shaded labels in the method are not tape data",
+      "xlim": [
+        0,
+        90
+      ],
+      "ylim": [
+        0,
+        8
+      ],
+      "xlabel": "Seconds since start (illustrative)",
+      "ylabel": "Normalised signal",
+      "series": [
+        {
+          "label": "Observed events",
+          "points": [
+            [
+              0,
+              0.7
+            ],
+            [
+              10,
+              1.2
+            ],
+            [
+              20,
+              1.1
+            ],
+            [
+              30,
+              2.1
+            ],
+            [
+              40,
+              1.9
+            ],
+            [
+              50,
+              2.8
+            ],
+            [
+              60,
+              2.7
+            ]
+          ]
+        },
+        {
+          "label": "Future label interval",
+          "points": [
+            [
+              60,
+              2.7
+            ],
+            [
+              70,
+              3.9
+            ],
+            [
+              80,
+              6
+            ],
+            [
+              90,
+              5.2
+            ]
+          ]
+        }
+      ],
+      "source": "Source: conceptual split, not organizer data",
+      "basis": "Illustrative simulation",
+      "alt": "Observation ends before the label matures. Synthetic event-time example; shaded labels in the method are not tape data",
+      "xticks": [
+        0,
+        15,
+        30,
+        45,
+        60,
+        75,
+        90
+      ],
+      "yticks": [
+        0,
+        2,
+        4,
+        6,
+        8
+      ]
+    },
+    {
+      "kind": "flow",
+      "id": "reproduce",
+      "title": "Keep external inputs outside the research snapshot",
+      "subtitle": "The release contains code, not a runnable market feed",
+      "nodes": [
+        [
+          0.1,
+          0.51,
+          "Authorised tape"
+        ],
+        [
+          0.3666666666666667,
+          0.51,
+          "Build dated features"
+        ],
+        [
+          0.6333333333333333,
+          0.51,
+          "Walk-forward fit"
+        ],
+        [
+          0.9000000000000001,
+          0.51,
+          "Check fixed policy"
+        ]
+      ],
+      "edges": [
+        [
+          0,
+          1,
+          ""
+        ],
+        [
+          1,
+          2,
+          ""
+        ],
+        [
+          2,
+          3,
+          ""
+        ]
+      ],
+      "basis": "Technical schematic",
+      "source": "Source: code paths described in the README",
+      "alt": "Keep external inputs outside the research snapshot. Authorised tape; Build dated features; Walk-forward fit; Check fixed policy"
+    },
+    {
+      "kind": "flow",
+      "id": "rights",
+      "title": "Separate software rights from competition sharing",
+      "subtitle": "Preserve the original author and organizer rules",
+      "nodes": [
+        [
+          0.1,
+          0.51,
+          "MIT original code"
+        ],
+        [
+          0.3666666666666667,
+          0.51,
+          "Organiser datasets"
+        ],
+        [
+          0.6333333333333333,
+          0.51,
+          "Competition channels"
+        ],
+        [
+          0.9000000000000001,
+          0.51,
+          "ORCID citation"
+        ]
+      ],
+      "edges": [
+        [
+          0,
+          1,
+          ""
+        ],
+        [
+          1,
+          2,
+          ""
+        ],
+        [
+          2,
+          3,
+          ""
+        ]
+      ],
+      "basis": "Technical schematic",
+      "source": "Source: code paths described in the README",
+      "alt": "Separate software rights from competition sharing. MIT original code; Organiser datasets; Competition channels; ORCID citation"
+    }
+  ]
+}

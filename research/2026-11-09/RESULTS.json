@@ -1,0 +1,205 @@
+{
+  "verification_source_sha256": "aea8aa436b79fb7fc1effc03756621a3c6aa51213368ada7bfc0d78281a6ea22",
+  "export_manifest_sha256": "2b115acfff3b19123377e9b43d1a76fd2f82691e3466f7d943f3685db8cc79bd",
+  "prediction_artifacts": 38,
+  "paired_heldout_days": 11,
+  "rows": [
+    {
+      "day": "2026-10-28",
+      "arm": "control",
+      "tau": 1.7,
+      "pnl": 0.0,
+      "buys": 0,
+      "tokens": 320
+    },
+    {
+      "day": "2026-10-28",
+      "arm": "reservoir",
+      "tau": 0.4,
+      "pnl": 0.0,
+      "buys": 0,
+      "tokens": 320
+    },
+    {
+      "day": "2026-10-29",
+      "arm": "control",
+      "tau": 1000000000.0,
+      "pnl": 0.0,
+      "buys": 0,
+      "tokens": 357
+    },
+    {
+      "day": "2026-10-29",
+      "arm": "reservoir",
+      "tau": 0.4,
+      "pnl": 0.0,
+      "buys": 0,
+      "tokens": 357
+    },
+    {
+      "day": "2026-10-30",
+      "arm": "control",
+      "tau": 1000000000.0,
+      "pnl": 0.0,
+      "buys": 0,
+      "tokens": 369
+    },
+    {
+      "day": "2026-10-30",
+      "arm": "reservoir",
+      "tau": 0.6,
+      "pnl": 0.0,
+      "buys": 0,
+      "tokens": 369
+    },
+    {
+      "day": "2026-10-31",
+      "arm": "control",
+      "tau": 1000000000.0,
+      "pnl": 0.0,
+      "buys": 0,
+      "tokens": 422
+    },
+    {
+      "day": "2026-10-31",
+      "arm": "reservoir",
+      "tau": 1000000000.0,
+      "pnl": 0.0,
+      "buys": 0,
+      "tokens": 422
+    },
+    {
+      "day": "2026-11-01",
+      "arm": "control",
+      "tau": 1000000000.0,
+      "pnl": 0.0,
+      "buys": 0,
+      "tokens": 409
+    },
+    {
+      "day": "2026-11-01",
+      "arm": "reservoir",
+      "tau": 1000000000.0,
+      "pnl": 0.0,
+      "buys": 0,
+      "tokens": 409
+    },
+    {
+      "day": "2026-11-02",
+      "arm": "control",
+      "tau": 1000000000.0,
+      "pnl": 0.0,
+      "buys": 0,
+      "tokens": 478
+    },
+    {
+      "day": "2026-11-02",
+      "arm": "reservoir",
+      "tau": 1000000000.0,
+      "pnl": 0.0,
+      "buys": 0,
+      "tokens": 478
+    },
+    {
+      "day": "2026-11-03",
+      "arm": "control",
+      "tau": 1000000000.0,
+      "pnl": 0.0,
+      "buys": 0,
+      "tokens": 544
+    },
+    {
+      "day": "2026-11-03",
+      "arm": "reservoir",
+      "tau": 1000000000.0,
+      "pnl": 0.0,
+      "buys": 0,
+      "tokens": 544
+    },
+    {
+      "day": "2026-11-04",
+      "arm": "control",
+      "tau": 1000000000.0,
+      "pnl": 0.0,
+      "buys": 0,
+      "tokens": 492
+    },
+    {
+      "day": "2026-11-04",
+      "arm": "reservoir",
+      "tau": 1000000000.0,
+      "pnl": 0.0,
+      "buys": 0,
+      "tokens": 492
+    },
+    {
+      "day": "2026-11-05",
+      "arm": "control",
+      "tau": 1000000000.0,
+      "pnl": 0.0,
+      "buys": 0,
+      "tokens": 344
+    },
+    {
+      "day": "2026-11-05",
+      "arm": "reservoir",
+      "tau": 1000000000.0,
+      "pnl": 0.0,
+      "buys": 0,
+      "tokens": 344
+    },
+    {
+      "day": "2026-11-06",
+      "arm": "control",
+      "tau": 1000000000.0,
+      "pnl": 0.0,
+      "buys": 0,
+      "tokens": 341
+    },
+    {
+      "day": "2026-11-06",
+      "arm": "reservoir",
+      "tau": 1000000000.0,
+      "pnl": 0.0,
+      "buys": 0,
+      "tokens": 341
+    },
+    {
+      "day": "2026-11-07",
+      "arm": "control",
+      "tau": 1000000000.0,
+      "pnl": 0.0,
+      "buys": 0,
+      "tokens": 320
+    },
+    {
+      "day": "2026-11-07",
+      "arm": "reservoir",
+      "tau": 1000000000.0,
+      "pnl": 0.0,
+      "buys": 0,
+      "tokens": 320
+    }
+  ],
+  "totals": {
+    "control": 0.0,
+    "reservoir": 0.0
+  },
+  "mean_daily_candidate_minus_control": 0.0,
+  "paired_block2_95ci": [
+    0.0,
+    0.0
+  ],
+  "candidate_gate_passed": false,
+  "not_official_score": true,
+  "author": "Francisco Angulo de Lafuente",
+  "orcid": "0009-0001-1634-7063",
+  "date": "2026-11-09",
+  "comparison": "one preregistered historical heldout comparison, no prospective live performance",
+  "control_selected_as_unproven_baseline": true,
+  "submission_to_bot_confirmed": true,
+  "input_manifest_sha256": "5f7bdcba8e795f32ea5a57c6c86d8d2e0987457296045ea3ae8a53982c79c3d9",
+  "owner_server_full_notebook_runtime_passed": true,
+  "official_league_entry_confirmed": false,
+  "bot_trial_status": "running"
+}

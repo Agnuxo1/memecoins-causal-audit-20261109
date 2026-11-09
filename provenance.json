@@ -1,0 +1,45 @@
+{
+  "schema": "github-project-provenance/v1",
+  "project": "memecoins-walk-forward-research",
+  "name": "Event-time survival benchmark",
+  "author": {
+    "name": "Francisco Angulo de Lafuente",
+    "orcid": "https://orcid.org/0009-0001-1634-7063"
+  },
+  "recorded_on": "2026-11-06",
+  "canonical_url": "https://github.com/Agnuxo1/memecoins-walk-forward-research",
+  "baseline_commit": "2d6a994a7ddce8aae11b844f2ef49d0ea482cdc9",
+  "inventory_review": {
+    "recorded_on": "2026-11-06",
+    "baseline_commit": "2d6a994a7ddce8aae11b844f2ef49d0ea482cdc9",
+    "tracked_path_count": 24,
+    "source": "provenance-baseline.json, which enumerates the 13 selected text/source files and 11 generated images",
+    "result": "No competition data, entrant notebooks, model weights, or submissions in the tracked baseline tree; public author usernames are present in attribution comments"
+  },
+  "license_scope": {
+    "original_project_software": "MIT for Francisco-authored original project code",
+    "hrc_port": "src/hrc.py records an Apache-2.0 upstream project by the same author; preserve upstream attribution and terms, not resolved by this repository-only review",
+    "competition_data": "Not included; Kaggle Data tab says Subject to Competition Rules",
+    "generated_figures": "Renderer MIT; figure outputs not blanket-relicensed here",
+    "third_party_controls": "Referenced as separate; no control notebooks included"
+  },
+  "official_sources": [
+    {
+      "url": "https://www.kaggle.com/competitions/memecoins-pump-or-dump/rules",
+      "scope": "competition code sharing, notebook publication and submission rules",
+      "reviewed_on": "2026-11-06",
+      "access": "indexed official text available; direct anonymous open returned no readable lines"
+    },
+    {
+      "url": "https://www.kaggle.com/competitions/memecoins-pump-or-dump/data",
+      "scope": "competition data license label",
+      "status": "Subject to Competition Rules; data rights outside the competition not established"
+    },
+    {
+      "url": "https://www.kaggle.com/competitions/memecoins-pump-or-dump/overview",
+      "scope": "competition status and close date",
+      "status": "listed close 2026-11-30 23:59 UTC on 2026-11-06; operational settings may change"
+    }
+  ],
+  "visibility": "private; active competition rules specify Kaggle as the public code-sharing channel"
+}

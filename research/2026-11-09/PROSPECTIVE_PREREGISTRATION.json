@@ -1,0 +1,15 @@
+{
+  "frozen_utc": "2026-11-09T17:10:19.455805+00:00",
+  "newly_supplied_targets_acquired_before_this_seal": false,
+  "fresh_period": "all official labelled dates >=2026-10-28, minimum seven",
+  "science_reviewed_hashes": {
+    "PROTOCOL.md": "480b6bf7d61a388fcb75d510c8106d57811ea4f6f39c3782df107662df836693",
+    "science/study.py": "729326ecfdff677f01c0a9d5b9011e7069e043a18590aad0f07fc509733e0f0f",
+    "science/legacy_features.py": "a8f70e2a19c6c38eee53c7f21905f548ab1524d4dda47329f4521652f5036f81"
+  },
+  "acquisition_source_sha256": "b092928e49a0214221c10a02ba199956a285217fd2088c51b58575c1dcb4d104",
+  "metadata_sha256": "8107b83c7b725371fb63ed820f158a7f026974b79499a20de5b75adb97477b24",
+  "review_sha256": "aad23f7dcf69bcb3d329a807ca15eb00ea80fd65eb12e5d6e528f43f0b4faede",
+  "comparison_source_unchanged_after_seal_required": true,
+  "no_performance_based_retry_or_tuning": true
+}

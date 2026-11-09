@@ -1,0 +1,13 @@
+{
+  "observed_utc": "2026-11-09T17:04:52.119954+00:00",
+  "source_hashes": {
+    "PROTOCOL.md": "480b6bf7d61a388fcb75d510c8106d57811ea4f6f39c3782df107662df836693",
+    "science/study.py": "729326ecfdff677f01c0a9d5b9011e7069e043a18590aad0f07fc509733e0f0f",
+    "science/legacy_features.py": "a8f70e2a19c6c38eee53c7f21905f548ab1524d4dda47329f4521652f5036f81"
+  },
+  "independent_review": "independent-review/REVIEW_V2.md",
+  "open_major": 0,
+  "independent_checks_passed": 11,
+  "parent_reran_all_checks": true,
+  "new_targets_acquired": false
+}

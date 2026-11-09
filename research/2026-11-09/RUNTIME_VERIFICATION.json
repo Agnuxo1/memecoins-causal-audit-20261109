@@ -1,0 +1,21 @@
+{
+  "actual_full_notebook_runtime_passed": true,
+  "notebook_sha256": "0e710e7745d70c4ec0998b1f244071adcb48d10eb348dcf57ed8a5835c0c1a3b",
+  "code_cells_executed": 6,
+  "input_manifest_sha256": "6b1f6eb53a87c46814f8616dcde98e8b79f02ce86ca128b003834cb22008d462",
+  "raw_files_verified": 165,
+  "total_input_files_verified": 167,
+  "cell_execution_seconds": 662.0341911739961,
+  "peak_child_rss_KiB": 3223956,
+  "server_finished_utc": "2026-11-09T18:58:38.777060+00:00",
+  "rows": 292,
+  "buys": 0,
+  "submission_sha256": "0716f3e3cbae95d513eda18ceffe494abf04678177d8beda831a59fa39af38f5",
+  "legal_predictions_exact_sample_order": true,
+  "cpu_threads": 4,
+  "gpu_used": false,
+  "pretrained_objects_loaded": false,
+  "organiser_trial_not_yet_confirmed": true,
+  "export_manifest_sha256": "2ed6cbb3aac7aa9b4b8281ed62040809e6bb75bf8a659199ef8876fe0aef5865",
+  "verification_source_sha256": "a66fbc7fafd8cdb96a39f13a72b717bc40a98f93fe4bc6fa5e5e58c7cfe97833"
+}

@@ -1,0 +1,9 @@
+Copyright2026 Francisco Angulo de Lafuente, ORCID0009-0001-1634-7063.
+The new2026-11-09 research source and portable notebooks are Apache-2.0.
+The Holographic-Reservoir core is attributed to Francisco Angulo de Lafuente,
+Apache-2.0; upstream code is represented by the preserved NumPy port. The current
+causal workflow modified feature-window handling, label availability, readout use,
+temporal calibration, thresholding and integrity checks. Frozen sources are copied
+byte for byte; modification history is described in README.md and PROTOCOL.md.
+Original root software and figure renderer retain their MIT notices. Competition
+data, fitted weights and private contacts are not included or licensed here.

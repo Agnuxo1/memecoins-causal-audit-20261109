@@ -1,0 +1,3 @@
+Original research implementation only. Copyright 2026 Francisco Angulo de Lafuente (https://orcid.org/0009-0001-1634-7063). The tracked baseline at commit 2d6a994 contains no third-party competitor notebook, transaction tape, model weights or submission file; it does include the author's public Kaggle and GitHub usernames for attribution. See provenance-baseline.json for the 24-path inventory.
+
+Project: Event-time survival benchmark. Attribution record: 2026-11-06. See LICENSE_SCOPE.md for the original-software license scope, Kaggle restrictions, and preserved upstream provenance.

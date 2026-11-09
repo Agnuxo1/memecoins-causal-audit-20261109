@@ -1,0 +1,14 @@
+{
+  "recorded_utc": "2026-11-09T17:31:33.877485+00:00",
+  "scope": "Rebuild every current raw date; historic cache no longer used in study inputs",
+  "cause": "One of378 common cached tokens differs on10curve fields; original and new formulas match current raw exactly, but old raw/version is unavailable to identify the cause",
+  "acquisition_v4_sha256": "e484c56d5ccf4a33feb9786c27ea540255760b0116a4aefbff12377df2b069b5",
+  "preregistration_sha256": "5a4581a5ce5c1bdf05684ecc1b4892c7e194b7c892a7a3730c251f3b8dd2db3a",
+  "scientific_hashes_unchanged": {
+    "PROTOCOL.md": "480b6bf7d61a388fcb75d510c8106d57811ea4f6f39c3782df107662df836693",
+    "science/study.py": "729326ecfdff677f01c0a9d5b9011e7069e043a18590aad0f07fc509733e0f0f",
+    "science/legacy_features.py": "a8f70e2a19c6c38eee53c7f21905f548ab1524d4dda47329f4521652f5036f81"
+  },
+  "prospective_predictive_metric_seen": false,
+  "caveat": "Newly acquired labelled dates are historical, not live future forecasts; only bot December rotations are official forward confirmation."
+}

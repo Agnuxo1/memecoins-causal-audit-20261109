@@ -1,0 +1,189 @@
+{
+  "schema": "github-provenance-baseline/v1",
+  "project": "Event-time survival benchmark",
+  "canonical_url": "https://github.com/Agnuxo1/memecoins-walk-forward-research",
+  "recorded_on": "2026-11-06",
+  "baseline": {
+    "commit": "2d6a994a7ddce8aae11b844f2ef49d0ea482cdc9",
+    "branch": "main",
+    "tracked_path_count": 24
+  },
+  "selected_original_files": [
+    {
+      "path": ".gitignore",
+      "git_blob_sha": "90f3ef0e7f684b7e9d3c1264c654047dcd31a9ca",
+      "sha256": "8f683c63214e060178461a5343cfcc0cce128ebb8dd17266c7a0b19eb83fc6ec",
+      "classification": "project-authored code/documentation/metadata/configuration; ownership and license scope recorded separately"
+    },
+    {
+      "path": "CITATION.cff",
+      "git_blob_sha": "1c2329043e96904cd01d6c79b20e64a762a0c343",
+      "sha256": "5130b9128c5c490b9789a6fba23080774a75efb780146aa66de6d59ced04f52b",
+      "classification": "project-authored code/documentation/metadata/configuration; ownership and license scope recorded separately"
+    },
+    {
+      "path": "LICENSE",
+      "git_blob_sha": "19f7271620c5596471bf2a783af06df44050cc24",
+      "sha256": "74ef212ad04f833d2b738f5e655816120f0baf217ff99417c4c7e4c310e07bcf",
+      "classification": "project-authored code/documentation/metadata/configuration; ownership and license scope recorded separately"
+    },
+    {
+      "path": "NOTICE",
+      "git_blob_sha": "11c80fdfc1285f176a608aa78279adcc492a0fa3",
+      "sha256": "e7107f944d6f7d43a57dfa7e2029caadec54b6d531724729577833936e2c9f8a",
+      "classification": "project-authored code/documentation/metadata/configuration; ownership and license scope recorded separately"
+    },
+    {
+      "path": "README.md",
+      "git_blob_sha": "2c1b714db8f7d4301b8daaa1304223187bbfdf2a",
+      "sha256": "ef5bd35871c3fe3667a2f1ffcd41b6d18c8bef6f81097851cf9bdeed3b64b854",
+      "classification": "project-authored code/documentation/metadata/configuration; ownership and license scope recorded separately"
+    },
+    {
+      "path": "codemeta.json",
+      "git_blob_sha": "486c0a315117fa90008ec3f8ec0587721cdf554e",
+      "sha256": "22467738ed3090d186b831d4f612d3ce96ebdb704ac0937004cb0ccfc01110f0",
+      "classification": "project-authored code/documentation/metadata/configuration; ownership and license scope recorded separately"
+    },
+    {
+      "path": "docs/figures/README.md",
+      "git_blob_sha": "461d4ee801f32059b2a196d652885ea17a4012ed",
+      "sha256": "4a38b46fb873233ab5d1d17a9471ecc5c3aec94046dcaca7fbc90af1d9cc2793",
+      "classification": "project-authored code/documentation/metadata/configuration; ownership and license scope recorded separately"
+    },
+    {
+      "path": "docs/figures/figures.json",
+      "git_blob_sha": "b7ab7909d60fbfc6c23cebdc9b011b1288c397ec",
+      "sha256": "8cab1996a4d5cbbc4e75cb444939ebb71e5bd2a2dc4d1a3a28b257602c4955cc",
+      "classification": "project-authored code/documentation/metadata/configuration; ownership and license scope recorded separately"
+    },
+    {
+      "path": "docs/figures/provenance.json",
+      "git_blob_sha": "be74f031270f5b0d0dca733a48a05fa181af0916",
+      "sha256": "53e2f626897649066faa6760277ca770f9031c025b3f4449c162a79da4ff4a96",
+      "classification": "project-authored code/documentation/metadata/configuration; ownership and license scope recorded separately"
+    },
+    {
+      "path": "src/hrc.py",
+      "git_blob_sha": "5d55ae8a53633c0b28888663e8d94aef35c8c6e2",
+      "sha256": "7e00874120d629e855f3001e85f4f167da8204d15f12f45c369ed9ae112b627c",
+      "classification": "project-authored code/documentation/metadata/configuration; ownership and license scope recorded separately"
+    },
+    {
+      "path": "src/policy.py",
+      "git_blob_sha": "7ea288bdbee8d24eae622c24b2a44477fad6fbed",
+      "sha256": "4db677c38c0471e33119710c01d4d770ca3a63ed9e6b671ce48fc1b687392328",
+      "classification": "project-authored code/documentation/metadata/configuration; ownership and license scope recorded separately"
+    },
+    {
+      "path": "src/solution.py",
+      "git_blob_sha": "7e1e3ad7c5526a6bb84ab8df60aaf3b340e435b4",
+      "sha256": "cd3c866c3f355d141334c1b52fbd79d82971c167e16317c4bf040d6165b8c7ae",
+      "classification": "project-authored code/documentation/metadata/configuration; ownership and license scope recorded separately"
+    },
+    {
+      "path": "tools/render_lab_figures.py",
+      "git_blob_sha": "e3df6bd4de2fdaeae63f577c36e8d76b69accd2c",
+      "sha256": "46b775d5030eae1687e31601d3f38622a98984c9d4911b056721b1cdc67fbc16",
+      "classification": "project-authored code/documentation/metadata/configuration; ownership and license scope recorded separately"
+    }
+  ],
+  "excluded_generated_artifacts": [
+    {
+      "path": "docs/figures/cover.gif",
+      "reason": "generated PNG/JPG/GIF figure output; metadata and method descriptions are recorded separately"
+    },
+    {
+      "path": "docs/figures/cover.jpg",
+      "reason": "generated PNG/JPG/GIF figure output; metadata and method descriptions are recorded separately"
+    },
+    {
+      "path": "docs/figures/cover.png",
+      "reason": "generated PNG/JPG/GIF figure output; metadata and method descriptions are recorded separately"
+    },
+    {
+      "path": "docs/figures/dataflow.gif",
+      "reason": "generated PNG/JPG/GIF figure output; metadata and method descriptions are recorded separately"
+    },
+    {
+      "path": "docs/figures/dataflow.png",
+      "reason": "generated PNG/JPG/GIF figure output; metadata and method descriptions are recorded separately"
+    },
+    {
+      "path": "docs/figures/reproduce.gif",
+      "reason": "generated PNG/JPG/GIF figure output; metadata and method descriptions are recorded separately"
+    },
+    {
+      "path": "docs/figures/reproduce.png",
+      "reason": "generated PNG/JPG/GIF figure output; metadata and method descriptions are recorded separately"
+    },
+    {
+      "path": "docs/figures/rights.gif",
+      "reason": "generated PNG/JPG/GIF figure output; metadata and method descriptions are recorded separately"
+    },
+    {
+      "path": "docs/figures/rights.png",
+      "reason": "generated PNG/JPG/GIF figure output; metadata and method descriptions are recorded separately"
+    },
+    {
+      "path": "docs/figures/timing.gif",
+      "reason": "generated PNG/JPG/GIF figure output; metadata and method descriptions are recorded separately"
+    },
+    {
+      "path": "docs/figures/timing.png",
+      "reason": "generated PNG/JPG/GIF figure output; metadata and method descriptions are recorded separately"
+    }
+  ],
+  "excluded_external_material": [
+    {
+      "description": "competition tapes and datasets",
+      "reason": "not present in the tracked repository tree"
+    },
+    {
+      "description": "third-party public control notebooks",
+      "reason": "README identifies them as separate; no control notebooks are present in the tracked tree"
+    }
+  ],
+  "passage_fingerprints": [
+    {
+      "path": "src/solution.py",
+      "selector": "AST function creator_rep",
+      "normalization": "Python AST unparse; comments/formatting normalized",
+      "excerpt": "def creator_rep(a, levels=(3.0, 5.0, 10.0)):\n    \"\"\"Historial del creador, estrictamente acumulativo. Para el token i solo entran\n    tokens con mt <= mt_i - WIN, es decir cuya propia hora ya cerro. Nunca se usa el\n    fichero completo: borrar tokens posteriores no cambia ningun valor.\"\"\"\n    mts, mx = (a.mt.values, a.max_x.values)\n    cre = a.creator.fillna('?').astype('category').cat.codes.values\n    nC = cre.max() + 1\n    n = np.zeros(nC)\n    hits = {u: np.zeros(nC) for u in levels}\n    out = np.full((len(a), 1 + len(levels)), np.nan)\n    j = 0\n    for i in range(len(a)):\n        while j < len(a) and mts[j] <= mts[i] - WIN:\n            if not np.isnan(mx[j]):\n                n[cre[j]] += 1\n                for u in levels:\n                    if mx[j] >= u:\n                        hits[u][cre[j]] += 1\n            j += 1\n        c = cre[i]\n        k = n[c]\n        out[i, 0] = k\n        for q, u in enumerate(levels):\n            out[i, 1 + q] = hits[u][c] / k if k > 0 else np.nan\n    cols = ['r_creator_n'] + ['r_creator_p%g' % u for u in levels]\n    return pd.DataFrame(out, columns=cols, index=a.index)",
+      "sha256": "8cf020f81497087b92b738d173aee532552dadffbc5c852af7813c019ca45874"
+    },
+    {
+      "path": "src/policy.py",
+      "selector": "AST function pick_tau",
+      "normalization": "Python AST unparse; comments/formatting normalized",
+      "excerpt": "def pick_tau(TR, FE, inner_days=8, grid=None, seeds=(0,)):\n    \"\"\"Elige el umbral de EV con una validacion interna sobre los ultimos dias del\n    entrenamiento. No toca el dia de test.\n\n    Dos reglas, ambas sacadas de la metrica:\n    - solo se consideran umbrales cuya profundidad cae en la banda que la ablacion\n      respalda (entre 0,3 y 2 compras al dia); mas profundo se degrada siempre.\n    - si en esa banda la mejor media interna no es positiva, se ABSTIENE. Saltarse\n      un dia puntua exactamente 0, y solo se pagan puntuaciones oficiales positivas,\n      asi que desplegar un regimen que la propia validacion dice que pierde es peor\n      que no comprar.\n    \"\"\"\n    grid = grid if grid is not None else np.arange(0.0, 2.01, 0.1)\n    days = sorted(TR.day.unique())\n    rows = []\n    for day in days[-inner_days:]:\n        val = TR[TR.day == day]\n        trn = TR[(TR.day < day) & (TR.mt <= val.mt.min() - WIN - EMBARGO)]\n        if len(trn) < 2000 or len(val) < 50:\n            continue\n        m = Survival(FE, seeds=seeds).fit(trn)\n        EV, _ = m.ev(val)\n        k = EV.argmax(1)\n        best = EV[np.arange(len(val)), k]\n        lev = np.array(m.levels)[k]\n        for t in grid:\n            tp = np.where(best >= t, lev, 0.0)\n            s = pnl(tp, val.max_x.values, val.final_x.values)\n            rows.append(dict(day=day, tau=round(float(t), 2), pnl=float(s.sum()), takes=int((tp > 0).sum())))\n    R = pd.DataFrame(rows)\n    if R.empty:\n        return (ABSTAIN_TAU, R)\n    g = R.groupby('tau').agg(mean=('pnl', 'mean'), std=('pnl', 'std'), pos=('pnl', lambda x: float((x > 0).mean())), takes=('takes', 'mean')).reset_index()\n    band = g[(g.takes >= DEPTH_LO) & (g.takes <= DEPTH_HI) & (g['mean'] > 0)]\n    if band.empty:\n        return (ABSTAIN_TAU, g)\n    band = band.assign(score=band['mean'] / (band['std'].fillna(0) + 1.0))\n    return (float(band.sort_values('score', ascending=False).tau.iloc[0]), g)",
+      "sha256": "d3ae697485b20f451b75bb0564731de877f678a47da612feccf7053621b076c7"
+    },
+    {
+      "path": "src/hrc.py",
+      "selector": "AST function _sha_entropy",
+      "normalization": "Python AST unparse; comments/formatting normalized",
+      "excerpt": "def _sha_entropy(n, seed):\n    out = []\n    h = hashlib.sha256(f'hrc-init-{seed}'.encode()).digest()\n    while len(out) < n:\n        out.extend(h)\n        h = hashlib.sha256(h).digest()\n    return np.frombuffer(bytes(out[:n]), dtype=np.uint8).astype(np.float64) / 127.5 - 1.0",
+      "sha256": "4dfb122029c5a5191428bc1a75545cc2b1a2bbe6827758f26f4c0a541b564315"
+    },
+    {
+      "path": "README.md",
+      "selector": "exact temporal-validation limitation paragraph",
+      "normalization": "Unicode NFC; LF; trailing whitespace removed",
+      "excerpt": "The original research code fits and calibrates on earlier days, applies a forward embargo, and scores later days. Two third-party public controls and the Kaggle sandbox are separate from this implementation. Local historical performance was unstable across seeds; no official submission or trading performance is inferred.",
+      "sha256": "e720410ee74190cfae4ab2077bd60fe435995b8a4f8f51ef874f3de46b3b19a7"
+    },
+    {
+      "path": "docs/figures/README.md",
+      "selector": "exact figure-methods and license-scope paragraph",
+      "normalization": "Unicode NFC; LF; trailing whitespace removed",
+      "excerpt": "Research author [Francisco Angulo de Lafuente](https://orcid.org/0009-0001-1634-7063) · 2026-11-04. The original renderer is MIT software. Numerical claims, synthetic illustrations and technical schematics are labelled separately.",
+      "sha256": "b59f863066f5e1b075de8afe1e98bc0d7e1f7eb4634592bb157676c8815928dd"
+    }
+  ],
+  "method": {
+    "file_hash": "SHA-256 of raw Git blob bytes at baseline commit",
+    "passage_hash": "SHA-256 of normalized excerpts; Python functions use ast.unparse"
+  },
+  "limitation": "A matching hash or passage is a lead for review. It does not by itself establish authorship, access, copying, or a license violation."
+}

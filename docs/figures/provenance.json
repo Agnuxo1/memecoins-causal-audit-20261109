@@ -1,0 +1,17 @@
+{
+  "project": "memecoins-walk-forward-research",
+  "date": "2026-11-04",
+  "creator": {
+    "name": "Francisco Angulo de Lafuente",
+    "orcid": "https://orcid.org/0009-0001-1634-7063"
+  },
+  "figureRendererLicense": "MIT",
+  "projectLicense": "MIT",
+  "licenseFile": "LICENSE",
+  "recorded_on": "2026-11-06",
+  "canonical_url": "https://github.com/Agnuxo1/memecoins-walk-forward-research",
+  "licenseScope": {
+    "renderer": "MIT for original project-authored renderer software",
+    "generated_figures": "No blanket MIT claim in this record; respect any source-specific or third-party material terms"
+  }
+}
