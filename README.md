@@ -87,3 +87,8 @@ Original project-authored software is MIT licensed within the scope in [LICENSE_
 This project contains open-source material under the MIT License. When redistributing copies or substantial portions, retain the copyright and permission notices. If you build on this work, please cite the project and credit Francisco Angulo de Lafuente (ORCID: 0009-0001-1634-7063). Help advance scientific knowledge: we welcome reproducible results, corrections, and contributions. [LICENSE](LICENSE) · [Figure methods and provenance](docs/figures/README.md).
 
 <!-- research-provenance: project=memecoins-walk-forward-research; edition=2026-11-04; creator=Francisco Angulo de Lafuente; orcid=https://orcid.org/0009-0001-1634-7063; figure-renderer-license=MIT; recorded_on=2026-11-06 -->
+
+
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> The causal audit provides a reusable way to detect look-ahead leakage before spending resources on larger experiments. Its selected notebook runs on CPU without a GPU, and the frozen comparison records the absence of a reservoir advantage, helping future work avoid repeating an unsupported optimisation. The contribution is reproducible evaluation, not demonstrated trading gains. See the <a href="research/2026-11-09/README.md">executed audit</a>.</sub>
+<!-- impact-note:end -->
